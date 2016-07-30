@@ -1,0 +1,25 @@
+{
+  "name": "json-to-typings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.11.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yizhan/json-to-typings.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yizhan/json-to-typings/issues"
+  },
+  "homepage": "https://github.com/yizhan/json-to-typings#readme"
+}

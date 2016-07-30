@@ -1,0 +1,27 @@
+{
+  "username": "Alderan",
+  "level": 64,
+  "games": {
+    "quick": {
+      "wins": "159",
+      "lost": 140,
+      "played": "299"
+    },
+    "competitive": {
+      "wins": "50",
+      "lost": 49,
+      "played": "99"
+    }
+  },
+  "playtime": {
+    "quick": "38 hours",
+    "competitive": "21 hours"
+  },
+  "avatar": "https://blzgdapipro-a.akamaihd.net/game/unlocks/0x02500000000009E7.png",
+  "competitive": {
+    "rank": "49",
+    "rank_img": "https://blzgdapipro-a.akamaihd.net/game/rank-icons/rank-5.png"
+  },
+  "levelFrame": "https://blzgdapipro-a.akamaihd.net/game/playerlevelrewards/0x025000000000091E_Border.png",
+  "star": ""
+}

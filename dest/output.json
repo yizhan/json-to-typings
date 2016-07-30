@@ -1,0 +1,36 @@
+{
+    "username": "string",
+    "level": "number",
+    "Games_Interface": {
+        "quick": "GamesQuick_Interface",
+        "competitive": "GamesCompetitive_Interface"
+    },
+    "GamesQuick_Interface": {
+        "wins": "string",
+        "lost": "number",
+        "played": "string"
+    },
+    "wins": "string",
+    "lost": "number",
+    "played": "string",
+    "GamesCompetitive_Interface": {
+        "wins": "string",
+        "lost": "number",
+        "played": "string"
+    },
+    "Playtime_Interface": {
+        "quick": "string",
+        "competitive": "string"
+    },
+    "quick": "string",
+    "competitive": "string",
+    "avatar": "string",
+    "Competitive_Interface": {
+        "rank": "string",
+        "rank_img": "string"
+    },
+    "rank": "string",
+    "rank_img": "string",
+    "levelFrame": "string",
+    "star": "string"
+}
